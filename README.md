@@ -8,7 +8,7 @@ DESCRIPTION:
 University App is a software that enables students to perform certain activities about courses and friends.  
 They can also choose to edit their profile in the app.
 
-![ImgName](https://github.com/uendihoxha/UniApplication-in-Java/blob/master/screenshots/mainPage.PNG)
+![ImgName](https://github.com/uendihoxha/UniApplication/blob/master/screenshots/mainPage.PNG)
 
 FEATURES
 
@@ -38,6 +38,6 @@ INSTRUCTIONS
 
 NOTE: Screenshots of the software functioning are provided in the folder "screenshots" in the zipfile. 
 
-![ImgName](https://github.com/uendihoxha/UniApplication-in-Java/blob/master/screenshots/login.PNG)
+![ImgName](https://github.com/uendihoxha/UniApplication/blob/master/screenshots/login.PNG)
 
-![ImgName](https://github.com/uendihoxha/UniApplication-in-Java/blob/master/screenshots/myProfile.PNG)
+![ImgName](https://github.com/uendihoxha/UniApplication/blob/master/screenshots/myProfile.PNG)
