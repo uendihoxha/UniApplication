@@ -1,3 +1,5 @@
+-Some small changes are needed to make to completely fit the three tier architecture in this project-
+
 DEPENDENCIES
 
 Make sure to have:
@@ -33,8 +35,6 @@ INSTRUCTIONS
 4. Connect the JDBC driver(JConnector) by including the it's JAR File in the Project
    - Libraries->(Right Click)ADD JAR File->include file: mysql-connector-java-5.1.40-bin.jar 
    - or at Resolve when opening the project
-   
--Some small changes are needed to make to completely fit the three tier architecture in this project-
 
 NOTE: Screenshots of the software functioning are provided in the folder "screenshots" in the zipfile. 
 
