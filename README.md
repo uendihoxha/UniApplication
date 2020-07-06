@@ -1,4 +1,4 @@
--Some small changes are needed to make to completely fit the three tier architecture in this project-
+-Some small changes are needed to completely fit the three tier architecture in this project-
 
 DEPENDENCIES
 
